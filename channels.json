@@ -7,7 +7,7 @@
       "name": "Sky Arena",
       "category": "Sky Sports",
       "acestream_id": "d317a003e8047da2c36a2a2bb2289578c9a3b79c",
-      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Sky_Sports+_2026.svg",
+      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Sky_Sports+_2026.png",
       "description": "Sky Sports Arena live"
     },
     {
@@ -15,7 +15,7 @@
       "name": "Sky Cricket",
       "category": "Sky Sports",
       "acestream_id": "6d95e4b0893e155cc674b84e0763150c445d3ddd",
-      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Sky_Sports_Cricket_2026.svg",
+      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Sky_Sports_Cricket_2026.png",
       "description": "Sky Sports Cricket live"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Sky Football",
       "category": "Sky Sports",
       "acestream_id": "8dbe2d515e9131fa311353537736f8c94be9b26d",
-      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Sky_Sports_Football_2026.svg",
+      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Sky_Sports_Football_2026.png",
       "description": "Sky Sports Football live"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Sky Main Event",
       "category": "Sky Sports",
       "acestream_id": "eab7aeef0218ce8b0752e596e4792b69eda4df5e",
-      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Sky_Sports_Main_Event_2026.svg",
+      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Sky_Sports_Main_Event_2026.png",
       "description": "Sky Sports Main Event live"
     },
     {
@@ -39,7 +39,7 @@
       "name": "Sky Sports F1 [DE]",
       "category": "Sky Sports",
       "acestream_id": "b0999d6facfbae2944b9c7bba442eeea9cd9d4b2",
-      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Sky_Sport_F1_2020.svg",
+      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Sky_Sport_F1_2020.png",
       "description": "Sky Sports F1 German feed"
     },
     {
@@ -47,7 +47,7 @@
       "name": "Sky Sports F1 Alt [DE]",
       "category": "Sky Sports",
       "acestream_id": "b04372b9543d763bd2dbd2a1842d9723fd080076",
-      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Sky_Sport_F1_2020.svg",
+      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Sky_Sport_F1_2020.png",
       "description": "Sky Sports F1 alternative German feed"
     },
     {
@@ -55,7 +55,7 @@
       "name": "TNT Sports 1",
       "category": "TNT Sports",
       "acestream_id": "efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
-      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/TNT_Sports_1_Stacked_White.svg",
+      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/TNT_Sports_1_Stacked.png",
       "description": "TNT Sports 1 live"
     },
     {
@@ -63,7 +63,7 @@
       "name": "TNT Sports 2",
       "category": "TNT Sports",
       "acestream_id": "d63d8a57cf471394bfa9f619bbd68b01ae27a801",
-      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/TNT_Sports_2_Stacked_White.svg",
+      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/TNT_Sports_2_Stacked.png",
       "description": "TNT Sports 2 live"
     },
     {
@@ -71,15 +71,15 @@
       "name": "TNT Sports 3",
       "category": "TNT Sports",
       "acestream_id": "5f966c123759de46dff29c379266b7a403452033",
-      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/TNT_Sports_3_Stacked_White.svg",
+      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/TNT_Sports_3_Stacked.png",
       "description": "TNT Sports 3 live"
     },
     {
       "id": "10",
-      "name": "BT Sport",
+      "name": "TNT Sports 4",
       "category": "TNT Sports",
       "acestream_id": "fc5089d8e1519872fdf951779ccbca913acc9bce",
-      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/TNT_Sports_4_Stacked_White.svg",
+      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/TNT_Sports_4_Stacked.png",
       "description": "BT Sport live"
     },
     {
@@ -87,7 +87,7 @@
       "name": "Fox Sports 1",
       "category": "Fox Sports",
       "acestream_id": "c9c062941fbecb16ce29437f346ea7177d720898",
-      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/FS1_New_Logo.svg",
+      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/FS1_New_Logo.png",
       "description": "Fox Sports 1 live"
     },
     {
@@ -95,7 +95,7 @@
       "name": "Fox Sports 2",
       "category": "Fox Sports",
       "acestream_id": "cba8d369eac629b577750edb90370cd1c5fb03b7",
-      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/FS2_logo.svg",
+      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/FS2_logo.png",
       "description": "Fox Sports 2 live"
     },
     {
@@ -103,7 +103,7 @@
       "name": "Premier Sports 1",
       "category": "Premier Sports",
       "acestream_id": "13ddaf59c0f2d760fd3775acc254e13825206eac",
-      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Premier_Sports_1_II.svg",
+      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Premier_Sports_1_II.png",
       "description": "Premier Sports 1 live"
     },
     {
@@ -111,7 +111,7 @@
       "name": "Premier Sports 2",
       "category": "Premier Sports",
       "acestream_id": "086e4c7ccc0b80e2960a553d04dac1024c7787b9",
-      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Premier_Sports_2_II.svg",
+      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/Premier_Sports_2_II.png",
       "description": "Premier Sports 2 live"
     },
     {
@@ -119,7 +119,7 @@
       "name": "DAZN F1 (Server 2)",
       "category": "F1",
       "acestream_id": "d65257bb934b73647374224fd62d836815804be2",
-      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/DAZN_F1_2024.svg",
+      "logo_url": "https://raw.githubusercontent.com/ImNotVarun/acestream_channels_id/refs/heads/main/logos/DAZN_F1_2024.png",
       "description": "DAZN F1 Server 2"
     }
   ]
